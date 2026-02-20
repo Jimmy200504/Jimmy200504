@@ -24,15 +24,15 @@
 
 ### 🚀 Featured Projects
 
-#### 📱 [Lailai - LINE-Integrated Reservation Platform](https://github.com/Jimmy200504)
+#### 📱 [Lailai - LINE-Integrated Reservation Platform](https://lailai-promo.web.app)
 * **Tech:** Firebase, Flutter, Dart, Python, Vue 
 * **Summary:** Built a Flutter/Firebase appointment platform with LINE LIFF integration, secure credential management, and third-party payment processing. 
 
-#### 🔍 [Glimpse - Facial Preference RecSys](https://github.com/Jimmy200504)
+#### 🔍 [Glimpse - Facial Preference RecSys](https://github.com/ML-Glimpse/Backend)
 * **Tech:** Python, MongoDB, FAISS, InsightFace 
 * **Summary:** Built a FastAPI ML backend for photo recommendations using InsightFace embeddings and FAISS vector search. 
 
-#### 💧 [CalH2O - AI Hydration Tracker](https://github.com/Jimmy200504)
+#### 💧 [CalH2O - AI Hydration Tracker](https://github.com/Jimmy200504/CalH2O)
 * **Tech:** Python, MongoDB, FAISS, InsightFace 
 * **Summary:** Integrated Firebase Vertex AI with Cloud Functions to analyze food photos for hydration recommendations. 
 
