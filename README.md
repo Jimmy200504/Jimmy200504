@@ -1,18 +1,51 @@
-<h1 align="center">Hello 👋, I'm Jimmy Jen</h1>
-<h3 align="center">A CS student with hands-on experience in software development, and system design. Seeking opportunities to apply technical skills and creativity in real-world challenges.</h3>
+# 👋 Hi, I'm Kuang Chien Jen (Jimmy) 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jimmy200504&label=Profile%20views&color=0e75b6&style=flat" alt="jimmy200504" /> </p>
+[cite_start]**Computer Science Student @ National Tsing Hua University** [cite: 1, 8]
 
-- I'm curently working on [Lailai Reservation System](https://lailai-promo.web.app)
+[cite_start]I am a software developer and system designer with a proven track record of leading projects and winning hackathons[cite: 5, 6]. [cite_start]I enjoy applying technical creativity to solve real-world challenges[cite: 6].
 
-- 📫 How to reach me **jimmyjen123@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kuang-chien jenkuang-chien jen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kuang-chien jenkuang-chien jen" height="30" width="40" /></a>
-<a href="https://instagram.com/ch__410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ch__410" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jimmy200504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jimmy200504" height="30" width="40" /></a>
-</p>
+### 🎓 Education
+* **National Tsing Hua University** | [cite_start]Bachelor of Computer Science [cite: 8]
+    * [cite_start]**GPA:** 4.21 / 4.3 [cite: 9]
+    * [cite_start]**Key Coursework (All A/A+):** Operating Systems, Parallel Programming, Computer Architecture, Hardware Design, Software Studio, Data Structures [cite: 11]
+    * [cite_start]**Honors:** Book Award (2024 Fall), Exchange Student Scholarship (2025) [cite: 18, 19]
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+### 🛠 Skills & Tech Stack
+* [cite_start]**Languages:** C/C++, Python, Dart, Verilog [cite: 13]
+* [cite_start]**Frameworks:** Flutter, PyTorch, FastAPI, Vue [cite: 14, 22, 31]
+* [cite_start]**Cloud & Tools:** Firebase (Cloud Functions, Firestore), Docker, Git, MongoDB, FAISS [cite: 15, 26, 29]
+* [cite_start]**Specialties:** ML System Integration, Vector Similarity Search, Payment Integration [cite: 26, 32]
+
+---
+
+### 🚀 Featured Projects
+
+#### [cite_start][Lailai-LINE-Integrated Reservation Platform](https://github.com/Jimmy200504) [cite: 21]
+* [cite_start]**Role:** Sole Developer [cite: 25]
+* [cite_start]**Tech:** Flutter, Firebase, Python, Cloud Secret Manager [cite: 22, 25]
+* [cite_start]**Key Features:** Built an appointment platform with LINE LIFF integration, secure credential management, and third-party payment processing with webhook lifecycle management[cite: 25, 26].
+
+#### [cite_start][Glimpse - Recommendation System](https://github.com/Jimmy200504) [cite: 27]
+* [cite_start]**Tech:** Python, MongoDB, FAISS, InsightFace, FastAPI [cite: 29, 31]
+* [cite_start]**Key Features:** Developed an ML backend using InsightFace embeddings and FAISS vector search for photo recommendations based on facial preferences[cite: 28, 31].
+
+#### [cite_start][CalH2O - AI Hydration Tracker](https://github.com/Jimmy200504) [cite: 33]
+* [cite_start]**Tech:** Firebase Vertex AI, Cloud Functions, Python [cite: 35, 37]
+* [cite_start]**Key Features:** Integrated LLMs to analyze food photos and provide personalized hydration recommendations[cite: 37]. [cite_start]Optimized AI data pipelines for predictable LLM outputs[cite: 38].
+
+---
+
+### 🏆 Awards
+* [cite_start]🥉 **3rd Place**, 2026 TSMC IT CareerHack - AAID Challenge [cite: 17]
+* [cite_start]📖 **Book Award**, National Tsing Hua University (2024 Fall) [cite: 18]
+
+---
+
+### 📫 Contact Me
+* [cite_start]**Email:** [jimmyjen123@gmail.com](mailto:jimmyjen123@gmail.com) [cite: 2]
+* [cite_start]**GitHub:** [Jimmy200504](https://github.com/Jimmy200504) [cite: 3]
+* [cite_start]**Location:** Hsinchu, Taiwan [cite: 10]
