@@ -24,8 +24,8 @@
 
 ### 🚀 Featured Projects
 
-#### 📱 [Lailai - LINE-Integrated Reservation Platform](https://lailai-promo.web.app)
-* **Tech:** Firebase, Flutter, Dart, Python, Vue 
+#### 📱 [Lailai - LINE-Integrated Reservation Platform](https://lailai-tw.com)
+* **Tech:** Supabase, Flutter, Dart, Python, Vue 
 * **Summary:** Built a Flutter/Firebase appointment platform with LINE LIFF integration, secure credential management, and third-party payment processing. 
 
 #### 🔍 [Glimpse - Facial Preference RecSys](https://github.com/ML-Glimpse/Backend)
@@ -39,7 +39,8 @@
 ---
 
 ### 🏆 Competition
-* **3rd Place**, 2026 TSMC IT CareerHack - AAID Challenge 
+* **3rd Place**, 2026 TSMC IT CareerHack - AAID Challenge
+* **1st Place**, 2026 雲湧智生｜臺灣生成式AI應用黑客松競賽 1111人力銀行組 優選
 
 ---
 
